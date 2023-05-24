@@ -76,7 +76,7 @@ tr:nth-child(even) {
 
 /* Footer styles */
 footer {
-	background-color: #ccc;
+	background-color: #204177;
 	color: #333;
 	padding: 20px;
 	text-align: center;
@@ -92,6 +92,17 @@ footer {
 	height: 50%;
 	display: block;
     margin: 0 auto; 
+}
+
+.contacts {
+	font-size: 1.1em;
+}
+
+.contacts li {
+	margin: 10px 0;
+	display: block;
+	width: 50%;
+	float: left;
 }
 
 /* Course section styles */
