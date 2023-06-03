@@ -11,7 +11,7 @@ body {
 header {
 	background-color: #204177;
 	color: #fff;
-	padding: 15px;
+	padding: 25px;
 	text-align: center;
 }
 
@@ -47,7 +47,7 @@ section {
 }
 
 h2 {
-	color: #333;
+	color: #0e1b30;
 }
 
 ul {
@@ -65,6 +65,7 @@ footer {
 
 .info {
 	font-size: 1.1em;
+	color: #0e1b30;
 }
 
 .info img {
@@ -76,6 +77,7 @@ footer {
 
 .contacts {
 	font-size: 1.1em;
+	color: #0e1b30;
 }
 
 .contacts ul {
@@ -177,6 +179,10 @@ a {
       text-decoration: none;
     }
 
+.back-page-button:hover {
+	background-color: #1f365c;	
+}
+
 .next-page-button {
       position: fixed;
       bottom: 20px;
@@ -187,6 +193,10 @@ a {
       border-radius: 5px;
       text-decoration: none;
     }
+
+.next-page-button:hover {
+	background-color: #1f365c;	
+}
 
 
 .course-1 li {
