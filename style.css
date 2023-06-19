@@ -29,6 +29,7 @@ nav li {
 nav a {
 	color: #fff;
 	text-decoration: none;
+	transition-duration: 100ms;
 }
 
 nav a:hover {
@@ -177,6 +178,7 @@ a {
       padding: 10px 20px;
       border-radius: 5px;
       text-decoration: none;
+      transition-duration: 100ms;
     }
 
 .back-page-button:hover {
@@ -192,6 +194,7 @@ a {
       padding: 10px 20px;
       border-radius: 5px;
       text-decoration: none;
+      transition-duration: 100ms;
     }
 
 .next-page-button:hover {
@@ -201,7 +204,8 @@ a {
 
 .course-1 li {
 	margin-bottom: 10px;
-	text-indent: 20px;
+	text-indent: 10px;
+	margin-left: 20px;
 }
 
 .course-1 h3 {
